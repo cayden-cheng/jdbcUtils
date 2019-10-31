@@ -1,4 +1,4 @@
-package com.kuiniu.utils;
+package com.utils;
 
 import java.lang.reflect.Field;
 import java.sql.ResultSet;

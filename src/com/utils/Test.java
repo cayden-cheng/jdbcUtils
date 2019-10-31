@@ -1,4 +1,4 @@
-package com.kuiniu.utils;
+package com.utils;
 
 import java.sql.ResultSet;
 import java.sql.SQLException;
